@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Brave Together</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">ID</string>
+    <string name="prompt_password">מספר טלפון</string>
+    <string name="action_sign_in" > כניסה</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"ברוך הבא"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">מספר הטלפון חייב להכיל 10 ספרות</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="red_b">red_b</string>
+    <string name="green_b">green_b</string>
+    <string name="yellow_b">yellow_b</string>
+    <string name="bravetogether">מצעד הגבורה</string>
+    <string name="resign">להרשם מחדש</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="id">ID</string>
+</resources>
